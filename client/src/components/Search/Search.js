@@ -5,9 +5,9 @@ import SearchResults from '../SearchResults'
 
 class Search extends Component {
   state = {
-    topic: "Orlando Magic",
-    startYear: "2009",
-    endYear: "2011",
+    topic: " ",
+    startYear: " ",
+    endYear: " ",
     articles: null
   }
 
