@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 const Header = () => 
 <div className="container">
   <nav className="navbar navbar-inverse navbar-top">
-    <div className="container-fluid">
+    <div className="container-fluid bg-light">
       <Link className="nav navbar-brand" to="#">NYT-React</Link>
       
       <ul className="nav navbar-nav navbar-right">
