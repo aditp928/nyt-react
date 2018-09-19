@@ -2,6 +2,7 @@ const mongoose = require("mongoose");
 
 var Schema = mongoose.Schema;
 
+//article schema 
 var ArticleSchema = new Schema({
   headLine: {
     type: String,
