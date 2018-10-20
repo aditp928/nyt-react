@@ -6,5 +6,5 @@ Application will save scrapped articles and submit the title, summary and link o
 
 The application utilizes jquery in the frontend, nodejs and expressjs are utilized for the backend.
 
-Practices the use of state and components. Also utlizes react router
+Practices the use of state and components. Also utlizes react router.
 
